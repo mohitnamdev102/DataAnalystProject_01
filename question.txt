@@ -1,0 +1,13 @@
+Wines Data Analysis (Mini Project)
+
+Link :- Living Liquidz - Order Liquor Online in Mumbai
+https://livingliquidz.com/ 
+
+Problem Statements:
+Scarp all the data from the above-given links (wines and beers data).
+Clean the data and perform EDA.
+Use Git Page to create an EDA website report.
+Create one Dashboard using PowerBI from the data (6 visualizations, 5 KPIs).
+Create One ppt having all the insights and the key learnings.
+Also. include challenges faced and conclusion.
+Submit the GitHub repo link of the project where you have Created one selfexplained readme file for the Projec.
